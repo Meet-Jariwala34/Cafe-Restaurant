@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import logo from '../assets/Logo.png';
+import logo from '../assets/logo.png';
 import { useState, useEffect, useRef } from 'react';
 import {Link, NavLink, useNavigate} from 'react-router-dom';
 import Sidebar from './Sidebar';
