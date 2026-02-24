@@ -1,6 +1,6 @@
 import React from 'react'
-import sideImg1 from '../../assets/cafe-with-people.jpg';
-import sideImg2 from '../../assets/food-item-2.avif';
+import sideImg1 from '../../assets/Cafe-with-people.jpg';
+import sideImg2 from '../../assets/Food-item-2.avif';
 import Reveal from '../../component/Reveal';
 import {Link} from 'react-router-dom';
 
