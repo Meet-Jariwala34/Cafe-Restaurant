@@ -1,5 +1,5 @@
 import React from 'react'
-import bg from '../../assets/Food-item-3.jpeg';
+import bg from '../../assets/food-item-3.jpeg';
 import { Link } from 'react-router-dom';
 
 export default function Hero() {
