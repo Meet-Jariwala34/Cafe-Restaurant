@@ -1,5 +1,5 @@
 import React,{useState,useEffect} from 'react'
-import food1 from '../../../assets/Food-item-3.jpeg';
+import food1 from '../../../assets/food-item-3.jpeg';
 import food2 from '../../../assets/Food-item-2.avif';
 import food3 from '../../../assets/drinks.jpg';
 import Offers from './Offers';
